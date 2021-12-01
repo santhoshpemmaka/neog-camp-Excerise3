@@ -29,8 +29,11 @@ hr {
 .container-center {
     max-width: 600px;
     margin: auto;
+    
 }
-
+.licentre{
+    background-color: var(--off-white);
+}
 /** links **/
 .link {
     box-sizing: border-box;
